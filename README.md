@@ -12,8 +12,8 @@ You can access the live simulators here: [Continuous vs Continual Improvement Si
 
 The simulators are based on this simple but powerful analogy:
 
-- **Continuous improvement** is like adjusting your steering wheel every 2 seconds — even on a straight road.
-- **Continual improvement** is checking your direction at regular points and adjusting only when necessary — based on clear feedback.
+- **Continuous improvement** is like adjusting your steering wheel every 2 seconds, even on a straight road.
+- **Continual improvement** is checking your direction at regular points and adjusting only when necessary, based on clear feedback.
 
 ## Simulators Included
 
