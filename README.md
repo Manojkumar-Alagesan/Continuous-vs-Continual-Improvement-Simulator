@@ -6,7 +6,7 @@ These simulators visualize how different improvement philosophies perform when n
 
 ## Live Demo
 
-You can access the live simulators here: [Continuous vs. Continual Improvement Simulator](https://manojkumar-alagesan.github.io/Continuous-vs-Continual-Improvement-Simulator/)
+You can access the live simulators here: [Continuous vs Continual Improvement Simulator](https://manojkumar-alagesan.github.io/Continuous-vs-Continual-Improvement-Simulator/)
 
 ## Core Concept
 
