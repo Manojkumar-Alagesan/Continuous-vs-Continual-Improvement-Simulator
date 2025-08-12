@@ -130,13 +130,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Created by **_Manojkumar Alagesan_** [(Kaarchal Consulting)](https://kaarchal.in) to illustrate business improvement concepts.
+Created by **_Manojkumar Alagesan_** [(Manoj)](https://manojalagesan.com) to illustrate business improvement concepts.
 
 ### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/manojalagesan/)
 
-[Website](https://kaarchal.in)
+[Website](https://manojalagesan.com)
 
 ---
 
